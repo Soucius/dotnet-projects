@@ -1,16 +1,17 @@
 using Microsoft.AspNetCore.Mvc;
 
 namespace dotnet_basics.Controllers;
-public class CourseController: Controller {
+
+public class ProductsController : Controller {
     public string Index() {
-        return "Index";
+        return "Products/Index";
     }
-    
+
     public string List() {
-        return "List";
+        return "Products/List";
     }
 
     public string Details() {
-        return "Details";
+        return "Products/Details";
     }
 }
