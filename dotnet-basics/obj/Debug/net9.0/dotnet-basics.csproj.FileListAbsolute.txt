@@ -95,3 +95,4 @@ D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\refint\dotnet-basics.dll
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.pdb
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.genruntimeconfig.cache
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\ref\dotnet-basics.dll
+D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.sourcelink.json
