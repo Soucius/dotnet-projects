@@ -2,15 +2,15 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace dotnet_basics.Controllers;
 public class CourseController: Controller {
-    public string Index() {
-        return "Index";
-    }
-    
-    public string List() {
-        return "List";
+    public ActionResult Index() {
+        return View();
     }
 
-    public string Details() {
-        return "Details";
+    public ActionResult List() {
+        return View();
+    }
+
+    public ActionResult Details() {
+        return View();
     }
 }

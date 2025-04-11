@@ -14,9 +14,7 @@ D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.csproj.CoreCompil
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.MvcApplicationPartsAssemblyInfo.cache
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.RazorAssemblyInfo.cache
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\dotnet-basics.RazorAssemblyInfo.cs
-D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\scopedcss\bundle\dotnet-basics.styles.css
-D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\scopedcss\projectbundle\dotnet-basics.bundle.scp.css
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\lwj3pq00m5-b9sayid5wm.gz
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\ymr7anwmfl-61n19gt1b8.gz
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\rqbx17wfk5-xtxxf3hu2r.gz
@@ -79,8 +77,6 @@ D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\cy3osevc1g-2z0ns9nrw
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\ml2pmpmojx-muycvpuwrr.gz
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\yc9shlk3jh-87fc7y1x7t.gz
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\bl0xx4ubjt-mlv21k5csn.gz
-D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\c8n4bgopxp-6n1ze8k8ql.gz
-D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\compressed\kv8vqjgsva-6n1ze8k8ql.gz
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\staticwebassets.build.json
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\staticwebassets.development.json
 D:\dotnetProjects\dotnet-basics\obj\Debug\net9.0\staticwebassets.build.endpoints.json

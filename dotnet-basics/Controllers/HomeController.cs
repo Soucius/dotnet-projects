@@ -3,15 +3,15 @@ using Microsoft.AspNetCore.Mvc;
 namespace dotnet_basics.Controllers;
 
 public class HomeController: Controller {
-    public string Index() {
-        return "Index";
+    public ActionResult Index() {
+        return View();
     }
 
-    public string About() {
-        return "about";
+    public ActionResult About() {
+        return View();
     }
 
-    public string Contact() {
-        return "Contact";
+    public ActionResult Contact() {
+        return View();
     }
 }
