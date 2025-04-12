@@ -1,1 +1,8 @@
-<h1>Course/Index</h1>
+<h1 class="mb-3">Courses</h1>
+
+<div class="courses row">
+    @await Html.PartialAsync("_CourseCard")
+    @await Html.PartialAsync("_CourseCard")
+    @await Html.PartialAsync("_CourseCard")
+    @await Html.PartialAsync("_CourseCard")
+</div>
