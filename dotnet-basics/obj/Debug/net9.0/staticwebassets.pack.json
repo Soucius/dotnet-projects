@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\img\\4.jpg"
     },
     {
+      "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\samsung-s24.jpg",
+      "PackagePath": "staticwebassets\\img\\samsung-s24.jpg"
+    },
+    {
       "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
