@@ -6,6 +6,15 @@ public class CourseController: Controller {
         return View();
     }
 
+    public ActionResult Details() {
+        int kursSaati = 40;
+        string[] kursAdlari = ["Javascript Kursu", "React Kursu"];
+
+        ViewData["kursSaati"] = kursSaati;
+
+        return View(kursAdlari);
+    }
+
     public ActionResult List() {
         string[] kursAdlari = ["Javascript Kursu", "React Kursu"];
         string[] kursAciklamalari = ["Javascript Kurs Aciklamasi", "React Kurs Aciklamasi"];
@@ -20,10 +29,6 @@ public class CourseController: Controller {
         ViewData["kursResim1"] = kursResimleri[0];
         ViewData["kursResim2"] = kursResimleri[1];
 
-        return View();
-    }
-
-    public ActionResult Details() {
         return View();
     }
 }
