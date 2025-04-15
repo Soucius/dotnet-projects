@@ -1,8 +1,19 @@
-@model string[]
+@model Course
 
 <h1>Course/Details</h1>
 
-<p>@Model[0]</p> <br>
-<p>@Model[1]</p>
-
-<p>@ViewData["kursSaati"]</p>
+<div class="row">
+    <div class="col">
+        <div class="card">
+            <img src='~/img/@Model.Image' alt="" class="card-img-top">
+    
+            <div class="card-body">
+                <h5 class="card-title">@Model.Title</h5>
+    
+                <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas, ut!</p>
+    
+                <a href="#" class="card-link">Incele</a>
+            </div>
+        </div>
+    </div>
+</div>

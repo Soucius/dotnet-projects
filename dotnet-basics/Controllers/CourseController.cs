@@ -1,3 +1,4 @@
+using dotnet_basics.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace dotnet_basics.Controllers;
@@ -7,12 +8,11 @@ public class CourseController: Controller {
     }
 
     public ActionResult Details() {
-        int kursSaati = 40;
-        string[] kursAdlari = ["Javascript Kursu", "React Kursu"];
+        Course kurs1 = new Course();
+        kurs1.Title = "Django Kursu";
+        kurs1.Image = "1.jpg";
 
-        ViewData["kursSaati"] = kursSaati;
-
-        return View(kursAdlari);
+        return View(kurs1);
     }
 
     public ActionResult List() {
