@@ -5,7 +5,9 @@ namespace dotnet_basics.Controllers;
 
 public class ProductsController : Controller {
     public ActionResult Index() {
-        return View();
+        string[] kurslar = { "Javascript Kursu", "React Kursu", "Angular Kursu" };
+
+        return View(kurslar);
     }
 
     public ActionResult List() {
@@ -30,6 +32,14 @@ public class ProductsController : Controller {
                 urunBaslik = "iPhone 17",
                 urunFiyat = 100000,
                 urunResim = "i3.png",
+                urunAciklama = "Guzel telefon",
+                urunSatistaMi = false
+            },
+
+            new Product {
+                urunBaslik = "iPhone 18",
+                urunFiyat = 110000,
+                urunResim = "i4.png",
                 urunAciklama = "Guzel telefon",
                 urunSatistaMi = false
             }

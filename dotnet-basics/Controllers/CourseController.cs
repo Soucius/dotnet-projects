@@ -31,6 +31,11 @@ public class CourseController: Controller {
             new Course {
                 Title= "Angular Kursu",
                 Image= "3.jpg"
+            },
+
+            new Course {
+                Title= "Nodejs Kursu",
+                Image= "4.jpg"
             }
         };
 
