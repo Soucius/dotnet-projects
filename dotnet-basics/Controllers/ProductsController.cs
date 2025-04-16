@@ -9,7 +9,33 @@ public class ProductsController : Controller {
     }
 
     public ActionResult List() {
-        return View();
+        List<Product> urunler = new List<Product> {
+            new Product {
+                urunBaslik = "iPhone 15",
+                urunFiyat = 80000,
+                urunResim = "i1.png",
+                urunAciklama = "Guzel telefon",
+                urunSatistaMi = true
+            },
+
+            new Product {
+                urunBaslik = "iPhone 16",
+                urunFiyat = 90000,
+                urunResim = "i2.png",
+                urunAciklama = "Guzel telefon",
+                urunSatistaMi = true
+            },
+
+            new Product {
+                urunBaslik = "iPhone 17",
+                urunFiyat = 100000,
+                urunResim = "i3.png",
+                urunAciklama = "Guzel telefon",
+                urunSatistaMi = false
+            }
+        };
+
+        return View(urunler);
     }
 
     public ActionResult Details() {

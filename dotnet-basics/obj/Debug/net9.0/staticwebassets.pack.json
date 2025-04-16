@@ -25,6 +25,22 @@
       "PackagePath": "staticwebassets\\img\\4.jpg"
     },
     {
+      "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i1.png",
+      "PackagePath": "staticwebassets\\img\\i1.png"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i2.png",
+      "PackagePath": "staticwebassets\\img\\i2.png"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i3.png",
+      "PackagePath": "staticwebassets\\img\\i3.png"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i4.png",
+      "PackagePath": "staticwebassets\\img\\i4.png"
+    },
+    {
       "Id": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\samsung-s24.jpg",
       "PackagePath": "staticwebassets\\img\\samsung-s24.jpg"
     },

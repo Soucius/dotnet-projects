@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1ah+qU0yjpJJyZtjDa/FBkW9rRYLokLzs5C1Hbn8h7o=",
+  "Hash": "yQyRPrzZaafurSMlUSNHRC8DqtALmMjBEATyyWv5rT0=",
   "Source": "dotnet-basics",
   "BasePath": "_content/dotnet-basics",
   "Mode": "Default",
@@ -1443,6 +1443,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\4.jpg"
+    },
+    {
+      "Identity": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i1.png",
+      "SourceId": "dotnet-basics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\",
+      "BasePath": "_content/dotnet-basics",
+      "RelativePath": "img/i1#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sy5k9m068a",
+      "Integrity": "zGNbMiv538G63dY9fCy1EzY1UKT4ScFySlgvIi5aQN4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\i1.png"
+    },
+    {
+      "Identity": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i2.png",
+      "SourceId": "dotnet-basics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\",
+      "BasePath": "_content/dotnet-basics",
+      "RelativePath": "img/i2#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vat44ixtnh",
+      "Integrity": "V8myz6NE2E9uuFhD8Kp/AvKN0alubE4gDDVkj/d61rc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\i2.png"
+    },
+    {
+      "Identity": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i3.png",
+      "SourceId": "dotnet-basics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\",
+      "BasePath": "_content/dotnet-basics",
+      "RelativePath": "img/i3#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "upfwnstr0h",
+      "Integrity": "bvEnnq25BD+TckjWoG+SrhT7Uuwu+c6hP8YpAsiaHVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\i3.png"
+    },
+    {
+      "Identity": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i4.png",
+      "SourceId": "dotnet-basics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\",
+      "BasePath": "_content/dotnet-basics",
+      "RelativePath": "img/i4#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zg89nl4gpx",
+      "Integrity": "I77Ajfq6C6cwy0Zwfjgq5Jn4RzaOimhEo1TaNuHT1co=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\i4.png"
     },
     {
       "Identity": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\samsung-s24.jpg",
@@ -3669,6 +3753,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-cNYT/ZayYPKSJE5rP1fti/Kgw1llDsPpmbV/LWgrhZk="
+        }
+      ]
+    },
+    {
+      "Route": "img/i1.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGNbMiv538G63dY9fCy1EzY1UKT4ScFySlgvIi5aQN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGNbMiv538G63dY9fCy1EzY1UKT4ScFySlgvIi5aQN4="
+        }
+      ]
+    },
+    {
+      "Route": "img/i1.sy5k9m068a.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i1.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "280816"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zGNbMiv538G63dY9fCy1EzY1UKT4ScFySlgvIi5aQN4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sy5k9m068a"
+        },
+        {
+          "Name": "label",
+          "Value": "img/i1.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zGNbMiv538G63dY9fCy1EzY1UKT4ScFySlgvIi5aQN4="
+        }
+      ]
+    },
+    {
+      "Route": "img/i2.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8myz6NE2E9uuFhD8Kp/AvKN0alubE4gDDVkj/d61rc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8myz6NE2E9uuFhD8Kp/AvKN0alubE4gDDVkj/d61rc="
+        }
+      ]
+    },
+    {
+      "Route": "img/i2.vat44ixtnh.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i2.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "246213"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"V8myz6NE2E9uuFhD8Kp/AvKN0alubE4gDDVkj/d61rc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vat44ixtnh"
+        },
+        {
+          "Name": "label",
+          "Value": "img/i2.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-V8myz6NE2E9uuFhD8Kp/AvKN0alubE4gDDVkj/d61rc="
+        }
+      ]
+    },
+    {
+      "Route": "img/i3.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvEnnq25BD+TckjWoG+SrhT7Uuwu+c6hP8YpAsiaHVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvEnnq25BD+TckjWoG+SrhT7Uuwu+c6hP8YpAsiaHVg="
+        }
+      ]
+    },
+    {
+      "Route": "img/i3.upfwnstr0h.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i3.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "219200"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bvEnnq25BD+TckjWoG+SrhT7Uuwu+c6hP8YpAsiaHVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:45 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "upfwnstr0h"
+        },
+        {
+          "Name": "label",
+          "Value": "img/i3.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bvEnnq25BD+TckjWoG+SrhT7Uuwu+c6hP8YpAsiaHVg="
+        }
+      ]
+    },
+    {
+      "Route": "img/i4.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I77Ajfq6C6cwy0Zwfjgq5Jn4RzaOimhEo1TaNuHT1co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-I77Ajfq6C6cwy0Zwfjgq5Jn4RzaOimhEo1TaNuHT1co="
+        }
+      ]
+    },
+    {
+      "Route": "img/i4.zg89nl4gpx.png",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-basics\\wwwroot\\img\\i4.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "228023"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"I77Ajfq6C6cwy0Zwfjgq5Jn4RzaOimhEo1TaNuHT1co=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 26 Feb 2025 08:50:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zg89nl4gpx"
+        },
+        {
+          "Name": "label",
+          "Value": "img/i4.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-I77Ajfq6C6cwy0Zwfjgq5Jn4RzaOimhEo1TaNuHT1co="
         }
       ]
     },
