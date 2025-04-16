@@ -16,19 +16,24 @@ public class CourseController: Controller {
     }
 
     public ActionResult List() {
-        string[] kursAdlari = ["Javascript Kursu", "React Kursu"];
-        string[] kursAciklamalari = ["Javascript Kurs Aciklamasi", "React Kurs Aciklamasi"];
-        string[] kursResimleri = ["1.jpg", "2.jpg"];
+        // Course[] kurslar = [kurs1, kurs2, kurs3];
+        List<Course> kurslar = new List<Course> {
+            new Course {
+                Title = "Javascript Kursu",
+                Image = "1.jpg"
+            },
 
-        ViewData["kursAdi1"] = kursAdlari[0];
-        ViewData["kursAdi2"] = kursAdlari[1];
+            new Course {
+                Title = "React Kursu",
+                Image = "2.jpg"
+            },
 
-        ViewData["kursAciklama1"] = kursAciklamalari[0];
-        ViewData["kursAciklama2"] = kursAciklamalari[1];
+            new Course {
+                Title= "Angular Kursu",
+                Image= "3.jpg"
+            }
+        };
 
-        ViewData["kursResim1"] = kursResimleri[0];
-        ViewData["kursResim2"] = kursResimleri[1];
-
-        return View();
+        return View(kurslar);
     }
 }
