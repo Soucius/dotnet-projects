@@ -14,6 +14,14 @@
 
         <p>@Model.urunFiyat</p>
 
-        <p>@Model.urunSatistaMi</p>
+        @if (Model.urunSatistaMi) {
+            @if (Model.stokAdeti > 0) {
+                <p>Satista</p>
+            } else {
+                <p>Stok yeterli degil</p>
+            }
+        } else {
+            <p>Satista Degil</p>
+        }
     </div>
 </div>

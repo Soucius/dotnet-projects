@@ -33,7 +33,7 @@ public class ProductsController : Controller {
                 urunFiyat = 100000,
                 urunResim = "i3.png",
                 urunAciklama = "Guzel telefon",
-                urunSatistaMi = false
+                urunSatistaMi = true
             },
 
             new Product {
@@ -49,13 +49,14 @@ public class ProductsController : Controller {
     }
 
     public ActionResult Details() {
-        Product urun1 = new Product();
-
-        urun1.urunBaslik = "Samsung S24 Ultra";
-        urun1.urunAciklama = "Samsung Galaxy S24 Ultra 512GB 12GB Ram (Samsung Turkiye Garantili) Siyah";
-        urun1.urunFiyat = 70000;
-        urun1.urunResim = "samsung-s24.jpg";
-        urun1.urunSatistaMi = false;
+        Product urun1 = new Product() {
+            urunBaslik = "Samsung S24 Ultra",
+            urunAciklama = "Samsung Galaxy S24 Ultra 512GB 12GB Ram (Samsung Turkiye Garantili) Siyah",
+            urunFiyat = 70000,
+            urunResim = "samsung-s24.jpg",
+            urunSatistaMi = false,
+            stokAdeti = 10
+        };
 
         return View(urun1);
     }

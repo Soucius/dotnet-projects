@@ -4,16 +4,18 @@
 
 <div class="row">
     @foreach(Course kurs in Model) {
-        <div class="col">
-            <div class="card">
-                <img src="~/img/@kurs.Image" alt="" class="card-img-top">
-    
-                <div class="card-body">
-                    <h5 class="card-title">@kurs.Title</h5>
-    
-                    <a href="#" class="card-link">Incele</a>
+        @if (kurs.IsActive) {
+            <div class="col">
+                <div class="card">
+                    <img src="~/img/@kurs.Image" alt="" class="card-img-top">
+        
+                    <div class="card-body">
+                        <h5 class="card-title">@kurs.Title</h5>
+        
+                        <a href="#" class="card-link">Incele</a>
+                    </div>
                 </div>
             </div>
-        </div>
+        }
     }
 </div>

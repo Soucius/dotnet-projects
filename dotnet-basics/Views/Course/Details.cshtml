@@ -3,17 +3,21 @@
 <h1>Course/Details</h1>
 
 <div class="row">
-    <div class="col">
-        <div class="card">
-            <img src='~/img/@Model.Image' alt="" class="card-img-top">
-    
-            <div class="card-body">
-                <h5 class="card-title">@Model.Title</h5>
-    
-                <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas, ut!</p>
-    
-                <a href="#" class="card-link">Incele</a>
+    @if (Model.IsActive) {
+        <div class="col">
+            <div class="card">
+                <img src='~/img/@Model.Image' alt="" class="card-img-top">
+        
+                <div class="card-body">
+                    <h5 class="card-title">@Model.Title</h5>
+        
+                    <p class="card-text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Voluptas, ut!</p>
+        
+                    <a href="#" class="card-link">Incele</a>
+                </div>
             </div>
         </div>
-    </div>
+    } else {
+        <p>Urun satista degil</p>
+    }
 </div>

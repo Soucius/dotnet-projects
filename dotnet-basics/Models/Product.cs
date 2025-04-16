@@ -6,4 +6,5 @@ public class Product {
     public double urunFiyat { get; set; }
     public string? urunResim { get; set; }
     public bool urunSatistaMi { get; set; }
+    public int stokAdeti { get; set; }
 }

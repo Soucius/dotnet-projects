@@ -11,31 +11,35 @@ public class CourseController: Controller {
         Course kurs1 = new Course();
         kurs1.Title = "Django Kursu";
         kurs1.Image = "1.jpg";
+        kurs1.IsActive = true;
 
         return View(kurs1);
     }
 
     public ActionResult List() {
-        // Course[] kurslar = [kurs1, kurs2, kurs3];
         List<Course> kurslar = new List<Course> {
             new Course {
                 Title = "Javascript Kursu",
-                Image = "1.jpg"
+                Image = "1.jpg",
+                IsActive = true
             },
 
             new Course {
                 Title = "React Kursu",
-                Image = "2.jpg"
+                Image = "2.jpg",
+                IsActive = true
             },
 
             new Course {
                 Title= "Angular Kursu",
-                Image= "3.jpg"
+                Image= "3.jpg",
+                IsActive = false
             },
 
             new Course {
                 Title= "Nodejs Kursu",
-                Image= "4.jpg"
+                Image= "4.jpg",
+                IsActive = true
             }
         };
 
