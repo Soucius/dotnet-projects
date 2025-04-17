@@ -6,6 +6,6 @@
     <div class="card-body">
         <h5 class="card-title">@Model.Title</h5>
 
-        <a href="#" class="btn btn-sm btn-secondary">Inspect</a>
+        <a asp-controller="Course" asp-action="Details" asp-route-id="@Model.Id" class="btn btn-sm btn-secondary">Inspect</a>
     </div>
 </div>
