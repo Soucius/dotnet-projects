@@ -1,13 +1,11 @@
-<div class="col">
-    <div class="card">
-        <img src="~/img/1.jpg" alt="" class="card-img-top">
+@model Course
 
-        <div class="card-body">
-            <h5 class="card-title">Lorem, ipsum.</h5>
+<div class="card mb-3">
+    <img src="~/img/@Model.Image" alt="" class="card-img-top">
 
-            <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, ab.</p>
+    <div class="card-body">
+        <h5 class="card-title">@Model.Title</h5>
 
-            <a href="#" class="card-link">Inspect</a>
-        </div>
+        <a href="#" class="btn btn-sm btn-secondary">Inspect</a>
     </div>
 </div>
