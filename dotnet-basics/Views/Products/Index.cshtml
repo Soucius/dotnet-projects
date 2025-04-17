@@ -1,9 +1,17 @@
-@model string[]
+@model List<Product>
 
-<h1>Products/Index</h1>
+<div class="d-flex justify-content-between align-items-center">
+    <h1 class="h3 mb-3">Urunler</h1>
 
-<ul>
-    @foreach(string kurs in Model) {
-        <li>@kurs</li>
+    <a asp-controller="Products" asp-action="List" class="btn btn-outline-danger">Tum Urunler</a>
+</div>
+
+<div class="row">
+    @foreach(Product urun in Model) {
+        @if (urun.urunSatistaMi) {
+            <div class="col-md-3">
+                @await Html.PartialAsync("_ProductCard", urun)
+            </div>
+        }
     }
-</ul>
+</div>
