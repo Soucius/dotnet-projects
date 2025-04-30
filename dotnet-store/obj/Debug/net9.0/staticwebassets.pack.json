@@ -1,16 +1,92 @@
 {
   "Files": [
     {
-      "Id": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\dotnet-store.bundle.scp.css",
-      "PackagePath": "staticwebassets\\dotnet-store.tih98aqvaf.bundle.scp.css"
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
     },
     {
-      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\ecommerce\\details.html",
+      "PackagePath": "staticwebassets\\ecommerce\\details.html"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\ecommerce\\index.html",
+      "PackagePath": "staticwebassets\\ecommerce\\index.html"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\ecommerce\\shopping-cart.html",
+      "PackagePath": "staticwebassets\\ecommerce\\shopping-cart.html"
     },
     {
       "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\1-big.jpeg",
+      "PackagePath": "staticwebassets\\img\\1-big.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\1.jpeg",
+      "PackagePath": "staticwebassets\\img\\1.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\2-big.jpeg",
+      "PackagePath": "staticwebassets\\img\\2-big.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\2.jpeg",
+      "PackagePath": "staticwebassets\\img\\2.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\3-big.jpeg",
+      "PackagePath": "staticwebassets\\img\\3-big.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\3.jpeg",
+      "PackagePath": "staticwebassets\\img\\3.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\4-big.jpeg",
+      "PackagePath": "staticwebassets\\img\\4-big.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\4.jpeg",
+      "PackagePath": "staticwebassets\\img\\4.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\5-big.jpeg",
+      "PackagePath": "staticwebassets\\img\\5-big.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\5.jpeg",
+      "PackagePath": "staticwebassets\\img\\5.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\6.jpeg",
+      "PackagePath": "staticwebassets\\img\\6.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\7.jpeg",
+      "PackagePath": "staticwebassets\\img\\7.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\8.jpeg",
+      "PackagePath": "staticwebassets\\img\\8.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\slider-1.jpeg",
+      "PackagePath": "staticwebassets\\img\\slider-1.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\slider-2.jpeg",
+      "PackagePath": "staticwebassets\\img\\slider-2.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\img\\slider-3.jpeg",
+      "PackagePath": "staticwebassets\\img\\slider-3.jpeg"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\js\\fslightbox.js",
+      "PackagePath": "staticwebassets\\js\\fslightbox.js"
     },
     {
       "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\js\\site.js",

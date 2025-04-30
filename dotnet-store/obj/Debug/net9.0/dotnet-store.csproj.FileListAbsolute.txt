@@ -55,10 +55,7 @@ D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\dotnet-store.MvcApplicationParts
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\dotnet-store.RazorAssemblyInfo.cache
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\dotnet-store.RazorAssemblyInfo.cs
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\dotnet-store.sourcelink.json
-D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\scopedcss\bundle\dotnet-store.styles.css
-D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\scopedcss\projectbundle\dotnet-store.bundle.scp.css
-D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\gejvkwke1r-b9sayid5wm.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\2v6xp16du8-61n19gt1b8.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\prp9f1ih76-xtxxf3hu2r.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\d6xi74t1eo-bqjiyaj88i.gz
@@ -120,8 +117,6 @@ D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\1iv1ywjztz-2z0ns9nrw6
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\a1tkkba8gl-muycvpuwrr.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\hxm858xkej-87fc7y1x7t.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\b6lx6vvi43-mlv21k5csn.gz
-D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\ka8km94e16-tih98aqvaf.gz
-D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\hyla0vsphq-tih98aqvaf.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\staticwebassets.build.json
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\staticwebassets.development.json
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\staticwebassets.build.endpoints.json
@@ -219,3 +214,8 @@ D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Worksp
 D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\1g6igrmttz-xxk3qya8dn.gz
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\qgob2e4hy7-qg1ekkvtos.gz
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\sok1nmw48k-gnslhl4t9y.gz
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\iwxhtpwcu7-p7rv9juknr.gz
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\t7hgfmq9h6-ojof1vbhxp.gz
