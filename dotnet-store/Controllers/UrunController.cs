@@ -21,8 +21,13 @@ public class UrunController: Controller {
     }
 
     public ActionResult Details(int id) {
-        // var urun = _context.Urunler.FirstOrDefault(u => u.Id == id);
         var urun = _context.Urunler.Find(id);
+
+        if (urun == null) {
+            return RedirectToAction("Index", "Home");
+        }
+
+        ViewData["BenzerUrunler"] = _context.Urunler.Where(i => i.Aktif && i.KategoriId == urun.KategoriId && i.Id != id).Take(4).ToList();
 
         return View(urun);
     }
