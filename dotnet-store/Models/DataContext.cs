@@ -8,10 +8,19 @@ public class DataContext : DbContext {
 
     public DbSet<Urun> Urunler { get; set; }
     public DbSet<Kategori> Kategoriler { get; set; }
+    public DbSet<Slider> Sliderlar { get; set; }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         base.OnModelCreating(modelBuilder);
+
+        modelBuilder.Entity<Slider>().HasData(
+            new List<Slider> {
+                new Slider { Id = 1, Baslik = "Slider 1 Baslik", Aciklama = "Slider 1 Aciklama", Resim = "slider-1.jpeg", Aktif = true, Index = 0 },
+                new Slider { Id = 2, Baslik = "Slider 2 Baslik", Aciklama = "Slider 2 Aciklama", Resim = "slider-2.jpeg", Aktif = true, Index = 1 },
+                new Slider { Id = 3, Baslik = "Slider 3 Baslik", Aciklama = "Slider 3 Aciklama", Resim = "slider-3.jpeg", Aktif = true, Index = 2 }
+            }
+        );
 
         modelBuilder.Entity<Kategori>().HasData(
             new List<Kategori> {
