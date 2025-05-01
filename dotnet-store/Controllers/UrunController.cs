@@ -19,4 +19,11 @@ public class UrunController: Controller {
 
         return View(urunler);
     }
+
+    public ActionResult Details(int id) {
+        // var urun = _context.Urunler.FirstOrDefault(u => u.Id == id);
+        var urun = _context.Urunler.Find(id);
+
+        return View(urun);
+    }
 }
