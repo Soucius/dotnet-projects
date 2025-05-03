@@ -12,7 +12,12 @@ public class KategoriController : Controller {
     }
 
     public ActionResult Index() {
-        var kategoriler = _context.Kategoriler.Include(i => i.Uruns).ToList();
+        var kategoriler = _context.Kategoriler.Select(i => new KategoriGetModel {
+            Id = i.Id,
+            KategoriAdi = i.KategoriAdi,
+            Url = i.Url,
+            UrunSayisi = i.Uruns.Count
+        }).ToList();
 
         return View(kategoriler);
     }
