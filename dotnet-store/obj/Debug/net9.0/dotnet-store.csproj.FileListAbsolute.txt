@@ -214,8 +214,9 @@ D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Worksp
 D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 D:\dotnetProjects\dotnet-store\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\1g6igrmttz-xxk3qya8dn.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\qgob2e4hy7-qg1ekkvtos.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\sok1nmw48k-gnslhl4t9y.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\iwxhtpwcu7-p7rv9juknr.gz
 D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\t7hgfmq9h6-ojof1vbhxp.gz
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\stxxyg6xyu-udc8aw1jbh.gz
+D:\dotnetProjects\dotnet-store\obj\Debug\net9.0\compressed\gejvkwke1r-xxk3qya8dn.gz

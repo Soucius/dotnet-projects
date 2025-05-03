@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LyCp4oQ1oKcLCHFXk2ma+B/ghUeq4yyddpKeESX8J7c=",
+  "Hash": "Lf+MsKWs+RgGpQ0rMckAaf9z3f4BACK2KTZnf3tXW7s=",
   "Source": "dotnet-store",
   "BasePath": "_content/dotnet-store",
   "Mode": "Default",
@@ -36,27 +36,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
-    },
-    {
-      "Identity": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\1g6igrmttz-xxk3qya8dn.gz",
-      "SourceId": "dotnet-store",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/dotnet-store",
-      "RelativePath": "css/styles#[.{fingerprint=xxk3qya8dn}]?.css.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "s6dhzdhp08",
-      "Integrity": "BAQM5obncZ8U5/pwjjdY+vCHOsrUcErstaChlk/1aDQ=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css"
     },
     {
       "Identity": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\1iv1ywjztz-2z0ns9nrw6.gz",
@@ -710,6 +689,27 @@
       "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+      "Identity": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\gejvkwke1r-xxk3qya8dn.gz",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "css/site#[.{fingerprint=xxk3qya8dn}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "s6dhzdhp08",
+      "Integrity": "BAQM5obncZ8U5/pwjjdY+vCHOsrUcErstaChlk/1aDQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css"
+    },
+    {
       "Identity": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\hriwo8fg9p-b7pk76d08c.gz",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
@@ -1214,6 +1214,27 @@
       "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Identity": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\stxxyg6xyu-udc8aw1jbh.gz",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "css/admin#[.{fingerprint=udc8aw1jbh}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\admin.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ippczhmx6u",
+      "Integrity": "2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\admin.css"
+    },
+    {
       "Identity": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\t7hgfmq9h6-ojof1vbhxp.gz",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
@@ -1403,12 +1424,33 @@
       "OriginalItemSpec": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css",
+      "Identity": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\admin.css",
       "SourceId": "dotnet-store",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\",
       "BasePath": "_content/dotnet-store",
-      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "RelativePath": "css/admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "udc8aw1jbh",
+      "Integrity": "sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css",
+      "SourceId": "dotnet-store",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\",
+      "BasePath": "_content/dotnet-store",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1421,7 +1463,7 @@
       "Integrity": "O7GXJaaqvkitr31hdlwyh5k9IEyhS8HWX8RQ5l7LT8o=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
       "Identity": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\ecommerce\\details.html",
@@ -3148,8 +3190,306 @@
   ],
   "Endpoints": [
     {
-      "Route": "css/styles.css",
-      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\1g6igrmttz-xxk3qya8dn.gz",
+      "Route": "css/admin.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\stxxyg6xyu-udc8aw1jbh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006250000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css.gz",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\stxxyg6xyu-udc8aw1jbh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.udc8aw1jbh.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\stxxyg6xyu-udc8aw1jbh.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.006250000000"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udc8aw1jbh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.udc8aw1jbh.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "368"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udc8aw1jbh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sorXIeR3TpI7tH5MIWX48WoaaJlAlOucDt80rF1Uqd0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.udc8aw1jbh.css.gz",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\stxxyg6xyu-udc8aw1jbh.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 03 May 2025 11:47:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "udc8aw1jbh"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2mvBTIwsthfCFEkGg6cDtuKq4E1dekwUgafVFWFeQZc="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\gejvkwke1r-xxk3qya8dn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3172,7 +3512,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 11:28:47 GMT"
+          "Value": "Sat, 03 May 2025 11:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3203,8 +3543,8 @@
       ]
     },
     {
-      "Route": "css/styles.css",
-      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css",
+      "Route": "css/site.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3225,7 +3565,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 11:28:47 GMT"
+          "Value": "Sat, 03 May 2025 11:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3240,8 +3580,8 @@
       ]
     },
     {
-      "Route": "css/styles.css.gz",
-      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\1g6igrmttz-xxk3qya8dn.gz",
+      "Route": "css/site.css.gz",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\gejvkwke1r-xxk3qya8dn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3262,7 +3602,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 11:28:47 GMT"
+          "Value": "Sat, 03 May 2025 11:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3285,8 +3625,8 @@
       ]
     },
     {
-      "Route": "css/styles.xxk3qya8dn.css",
-      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\1g6igrmttz-xxk3qya8dn.gz",
+      "Route": "css/site.xxk3qya8dn.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\gejvkwke1r-xxk3qya8dn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -3309,7 +3649,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 11:28:47 GMT"
+          "Value": "Sat, 03 May 2025 11:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3339,7 +3679,7 @@
         },
         {
           "Name": "label",
-          "Value": "css/styles.css"
+          "Value": "css/site.css"
         },
         {
           "Name": "integrity",
@@ -3348,8 +3688,8 @@
       ]
     },
     {
-      "Route": "css/styles.xxk3qya8dn.css",
-      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css",
+      "Route": "css/site.xxk3qya8dn.css",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3370,7 +3710,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 11:28:47 GMT"
+          "Value": "Sat, 03 May 2025 11:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3384,7 +3724,7 @@
         },
         {
           "Name": "label",
-          "Value": "css/styles.css"
+          "Value": "css/site.css"
         },
         {
           "Name": "integrity",
@@ -3393,8 +3733,8 @@
       ]
     },
     {
-      "Route": "css/styles.xxk3qya8dn.css.gz",
-      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\1g6igrmttz-xxk3qya8dn.gz",
+      "Route": "css/site.xxk3qya8dn.css.gz",
+      "AssetFile": "D:\\dotnetProjects\\dotnet-store\\obj\\Debug\\net9.0\\compressed\\gejvkwke1r-xxk3qya8dn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3415,7 +3755,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 28 Apr 2025 11:28:47 GMT"
+          "Value": "Sat, 03 May 2025 11:48:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3437,7 +3777,7 @@
         },
         {
           "Name": "label",
-          "Value": "css/styles.css.gz"
+          "Value": "css/site.css.gz"
         },
         {
           "Name": "integrity",

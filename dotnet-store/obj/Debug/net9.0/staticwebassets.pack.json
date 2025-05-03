@@ -1,8 +1,12 @@
 {
   "Files": [
     {
-      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\styles.css",
-      "PackagePath": "staticwebassets\\css\\styles.css"
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\dotnetProjects\\dotnet-store\\wwwroot\\ecommerce\\details.html",
